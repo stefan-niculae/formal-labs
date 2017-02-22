@@ -1,0 +1,26 @@
+.date {
+  text-align: right;
+}
+
+nav {
+  position: relative;
+}
+
+.nav-button {
+  display: inline-block;
+}
+
+.nav-posts {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.highlighted {
+  color: #CF0000 !important;
+}
+
+
+ul.posts .post-date {
+  float: right;
+}

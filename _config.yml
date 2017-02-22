@@ -1,0 +1,24 @@
+# Setup
+title:        Formal Labs
+tagline:      Formal Languages & Automata Labs
+baseurl:      ""
+permalink:    :title
+
+# About/contact
+author:
+  name:       Stefan Niculae
+  email:      stefan1niculae@gmail.com
+  github:     stefan1niculae
+
+# Gems
+gems:
+  # - jekyll-paginate
+
+# Others
+markdown: kramdown
+highlighter: rouge
+# kramdown:
+  # input: GFM
+  # syntax_highlighter: rouge
+
+future: true
