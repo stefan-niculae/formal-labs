@@ -51,7 +51,7 @@ Project 3 *(subject to change)*
 - *bonus:* DFA → RE
 - *bonus:* CNF
 
-**Programming languages**: you can implement the projects in any language you want. I highly recommend **C++** as it will also help you in your OOP course.
+**Programming languages**: you can implement the projects in any language you want. I highly recommend **C++** as it will also help you in your OOP course. Examples will be given in C++ as well.
 
 **Attendance**: mandatory (at least for project submission).
 
