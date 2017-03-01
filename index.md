@@ -21,13 +21,13 @@ The lab activity will consist of implementing **3 projects**. You can chose the 
 
 During the labs, we will discuss the projects and afterwards you will submit your solution (timetable listed below).
 
-**Evaluation**: each project will receive a 1-10 grade, final grade is their average. *Exceptional* project implementations can receive up to 12. Bonuses can be awarded for class work.
+**Evaluation**: each project will receive a 1—10 grade, the final grade is their average. *Exceptional* project implementations can receive up to 12. Bonuses can be awarded for class work.
 
 **Timetable**:
 
-![timetable](assets/timetable.pdf)
+![timetable](assets/timetable.svg)
 
-*Note:* We'll have to reschedule/find a solution for Lab 4: 20 Apr — easter break, 13 Apr — I'll be out of the country.
+> *Note:* We'll have to reschedule/find a solution for Lab 4: 20 Apr (easter break), 13 Apr (I'll be unavailable).
 
 **Project choices**:
 
@@ -53,7 +53,7 @@ Project 3 *(subject to change)*
 
 **Programming languages**: you can implement the projects in any language you want. I highly recommend **C++** as it will also help you in your OOP course. Examples will be given in C++ as well.
 
-**Attendance**: mandatory (at least for project submission).
+**Attendance**: mandatory (at least for project submission). You can attent any lab in any week, just make sure to submit all of your projects.
 
 
 
