@@ -34,9 +34,8 @@ During the labs, we will discuss the projects and afterwards you will submit you
 Project 1
 
 - DFA accepter
-
-
 - *bonus:* NFA accepter
+- *bonus:* λ-NFA accepter
 
 Project 2 *(subject to change)*
 
