@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 737.5 212.8" style="enable-background:new 0 0 737.5 212.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;}
+	.st1{enable-background:new    ;}
+	.st2{font-family:'TimesNewRomanPSMT';}
+	.st3{font-size:18.2851px;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{stroke:#000000;}
+</style>
+<ellipse class="st0" cx="81.9" cy="101.1" rx="27.4" ry="27.4"/>
+<text transform="matrix(1 0 0 1 73.6523 106.6006)" class="st1"><tspan x="0" y="0" class="st2 st3">q</tspan><tspan x="9.1" y="0" class="st4 st3">₀</tspan></text>
+<ellipse class="st0" cx="196.2" cy="101.1" rx="27.4" ry="27.4"/>
+<text transform="matrix(1 0 0 1 187.9346 106.6006)" class="st1"><tspan x="0" y="0" class="st2 st3">q</tspan><tspan x="9.1" y="0" class="st4 st3">₁</tspan></text>
+<ellipse class="st0" cx="308.6" cy="101.1" rx="27.4" ry="27.4"/>
+<text transform="matrix(1 0 0 1 300.3882 106.6006)" class="st1"><tspan x="0" y="0" class="st2 st3">q</tspan><tspan x="9.1" y="0" class="st4 st3">₂</tspan></text>
+<ellipse class="st0" cx="424.7" cy="101.1" rx="27.4" ry="27.4"/>
+<text transform="matrix(1 0 0 1 416.499 106.6006)" class="st1"><tspan x="0" y="0" class="st2 st3">q</tspan><tspan x="9.1" y="0" class="st4 st3">₃</tspan></text>
+<ellipse class="st0" cx="554.6" cy="101.1" rx="27.4" ry="27.4"/>
+<text transform="matrix(1 0 0 1 546.3232 106.6006)" class="st1"><tspan x="0" y="0" class="st2 st3">q</tspan><tspan x="9.1" y="0" class="st4 st3">₄</tspan></text>
+<ellipse class="st0" cx="678" cy="101.1" rx="27.4" ry="27.4"/>
+<text transform="matrix(1 0 0 1 669.748 106.6006)" class="st1"><tspan x="0" y="0" class="st2 st3">q</tspan><tspan x="9.1" y="0" class="st4 st3">₅</tspan></text>
+<ellipse class="st0" cx="678" cy="101.1" rx="21.9" ry="21.9"/>
+<path class="st5" d="M31.6,101.1h22.9H31.6z"/>
+<polygon points="54.5,101.1 47.1,96.5 47.1,105.7 "/>
+<path class="st5" d="M109.3,101.1h59.4H109.3z"/>
+<polygon points="168.7,101.1 161.4,96.5 161.4,105.7 "/>
+<text transform="matrix(1 0 0 1 134.9077 92.8867)" class="st2 st3">λ</text>
+<path class="st5" d="M223.6,101.1h57.6H223.6z"/>
+<polygon points="281.2,101.1 273.9,96.5 273.9,105.7 "/>
+<text transform="matrix(1 0 0 1 248.2754 92.8867)" class="st2 st3">a</text>
+<path class="st5" d="M336,101.1h61.3H336z"/>
+<polygon points="397.3,101.1 390,96.5 390,105.7 "/>
+<text transform="matrix(1 0 0 1 362.5576 92.8867)" class="st2 st3">λ</text>
+<path class="st5" d="M452.2,101.1h75H452.2z"/>
+<polygon points="527.1,101.1 519.8,96.5 519.8,105.7 "/>
+<text transform="matrix(1 0 0 1 485.0684 92.8867)" class="st2 st3">b</text>
+<path class="st5" d="M582,101.1h68.6H582z"/>
+<polygon points="650.5,101.1 643.2,96.5 643.2,105.7 "/>
+<text transform="matrix(1 0 0 1 612.1494 92.8867)" class="st2 st3">λ</text>
+<path class="st0" d="M653.7,114c-172.3,86.5-375.3,86.5-547.6,0"/>
+<polygon points="653.7,114 645.2,113.2 649.3,121.3 "/>
+<text transform="matrix(1 0 0 1 375.3574 198.0264)" class="st2 st3">λ</text>
+<path class="st0" d="M217.5,83.9c94.1-68.5,221.7-68.5,315.8,0"/>
+<polygon points="217.5,83.9 226.1,83.3 220.7,75.9 "/>
+<text transform="matrix(1 0 0 1 370.7861 24.3174)" class="st2 st3">λ</text>
+</svg>
