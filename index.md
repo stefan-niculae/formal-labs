@@ -32,28 +32,15 @@ During the labs, we will discuss the projects and afterwards you will submit you
 
 ![timetable](assets/timetable.svg)
 
-> *Note:* We'll have to reschedule/find a solution for Lab 4: 20 Apr (easter break), 13 Apr (I'll be unavailable).
+> *Note:* I'll be unavailable on 13 Apr and Easter break falls on 20 Apr.
 
 **Project choices**:
 
-Project 1
+For each project (P1, P2, P3) you can chose to implement any of the following:
 
-- DFA accepter
-- *bonus:* NFA accepter
-- *bonus:* λ-NFA accepter
+![timetable](assets/projects.svg)
 
-Project 2 *(subject to change)*
-
-- λ-NFA → NFA
-- NFA → DFA
-- *bonus:* DFA minimization
-
-Project 3 *(subject to change)*
-
-- RE → DFA
-- CYK
-- *bonus:* DFA → RE
-- *bonus:* CNF
+Each project can get you a maximum grade indicated in the "Grade" column.
 
 **Programming languages**: you can implement the projects in any language you want. I highly recommend **C++** as it will also help you in your OOP course. Examples will be given in C++ as well.
 
