@@ -9,7 +9,11 @@ tagline: Formal Languages & Automata Labs
 <ul class="posts">
   {% for post in site.posts reversed %}
     <li>
-    <small class="post-date">{{ post.date | date: '%-d %b' }}</small>
+    {% if post.onlyOneWeek %}
+      <small class="post-date">{{ post.date | date: '%-d %b' }}</small>
+    {% else %}
+      <small class="post-date">{{ post.date | date: '%-d %b' }}, {{ post.date | date:'%s' | plus: 604800 | date: '%-d %b'}}</small>
+    {% endif %}
       <a href="{{ site.baseurl }}{{ post.url }}" class="post-link">{{ post.title }}</a>
       {{ post.tagline }}
     </li>
