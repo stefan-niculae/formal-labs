@@ -2,27 +2,18 @@
   <h1 class="project-name">{{ page.title }}</h1>
   <h2 class="project-tagline">{{ page.tagline }}</h2>
 
-  {% if page.layout == 'post' %}
-    {% if page.exercises %}
-      <a href="{{ page.exercises }}" target="_blank" class="btn">Exercises</a>
-    {% endif %}
-
-    {% if page.optional %}
-      <a href="{{ page.optional }}" target="_blank" class="btn">Optional</a>
-    {% endif %}
-
-    {% if page.buttonNames %}
-      {% for name in page.buttonNames %}
-        {% assign index = forloop.index|minus: 1 %}
-        {% assign link = page.buttonLinks[index] %}
-          <a href="{{ link }}" target="_blank" class="btn">{{ name }}</a>
-        {% endfor %}
-    {% endif %}
-
+  <!-- Buttons -->
+  {% if page.buttonNames %}
+    {% for name in page.buttonNames %}
+      {% assign index = forloop.index|minus: 1 %}
+      {% assign link = page.buttonLinks[index] %}
+        <a href="{{ link }}" class="btn">{{ name }}</a>
+      {% endfor %}
   {% endif %}
 
-  <!-- {% if page.layout == 'home' %}
-    <a href="http://bit.do/progdecl" target="_blank" class="btn">Materials</a>
+  {% if page.layout == 'home' %}
+    <a href="http://bit.ly/lab-lfa" target="_blank" class="btn">Grades</a>
     <a href="{{ site.baseurl }}{{ site.posts.first.url }}" class="btn">Latest: {{ site.posts.first.title }}</a>
-  {% endif %} -->
+  {% endif %}
+
 </section>
