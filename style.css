@@ -28,3 +28,8 @@ nav {
 ul.posts .post-date {
   float: right;
 }
+
+.side-by-side .half {
+  display: inline-block;
+  width: 49%;
+}
