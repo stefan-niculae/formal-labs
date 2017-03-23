@@ -1,5 +1,6 @@
 .post-link {
-  margin-right: .75em;
+  display: inline-block;
+  width: 3.5em;
 }
 
 .date {
@@ -31,5 +32,11 @@ ul.posts .post-date {
 
 .side-by-side .half {
   display: inline-block;
-  width: 49%;
+  width: 47.5%;
+}
+.side-by-side .half:first-child {
+  margin-right: 2%;
+}
+.side-by-side .half:last-child {
+  margin-left: 2%;
 }
