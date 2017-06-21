@@ -4,6 +4,8 @@ title:   Formal Labs
 tagline: Formal Languages & Automata Labs
 ---
 
+❗️ [Previous year's exam solved]({{ site.baseurl }}/rezolvare-examen-2016.pdf)
+
 # Labs
 
 <ul class="posts">
