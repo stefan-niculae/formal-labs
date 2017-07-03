@@ -12,7 +12,7 @@ That being said, I *highly* encourage you **not to skip** any labs, and **attend
 
 
 
-Access online at [stefan1niculae.github.io/formal-labs](http://stefan1niculae.github.io/formal-labs).
+Access online at [stefann.eu/formal-labs](http://stefann.eu/formal-labs).
 
 
 
